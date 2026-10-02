@@ -1,0 +1,20 @@
+{
+  "id": 64,
+  "title": "Indoor Air Quality Panel Energy Saver",
+  "repository_slug": "indoor-air-quality-panel-energy-saver",
+  "category": "Smart Home",
+  "platform": "ESP32",
+  "platform_family": "arduino",
+  "difficulty": "Intermediate",
+  "estimated_hours": 24,
+  "connectivity": "MQTT",
+  "components": [
+    "light sensor",
+    "OLED display"
+  ],
+  "scope": "Build a smart home prototype that uses light sensor, OLED display to reduce unnecessary power use. Include setup instructions, a circuit diagram, tested firmware, and sample output.",
+  "key_deliverable": "Energy Saver demonstration with repeatable test steps",
+  "mode": "interactive_monitor",
+  "entrypoint": "firmware/indoor-air-quality-panel-energy-saver/indoor-air-quality-panel-energy-saver.ino",
+  "roadmap_source": "openmaker-2100-project-roadmap.xlsx"
+}
